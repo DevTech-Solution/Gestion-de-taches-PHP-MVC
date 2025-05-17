@@ -1,10 +1,12 @@
-# Gestion de tâches (Task Manager MVC) / Task Manager MVC
+# Gestion de tâches (Task Manager MVC)
 
 ## Description
 **FR :** Une application MVC en PHP orienté objet (POO) permettant à chaque utilisateur de gérer sa liste de tâches. L’accès est protégé : il faut être connecté, et chaque utilisateur ne voit que ses propres tâches.  
 **EN :** An object-oriented PHP MVC application that allows each user to manage their task list. Access is protected: users must be logged in, and each user only sees their own tasks.
 
 ---
+## Page Connexion
+![Page de connexion](images/connexion.png)
 
 ## Fonctionnalités / Features
 **FR :**  
@@ -109,7 +111,10 @@
 ## Usage / Usage
 **FR :**  
 1. Ouvrir votre navigateur et aller à l’adresse de votre serveur (ex. `http://localhost/controleur_accueil.php`).  
-2. Se connecter (créer un compte dans la table `utilisateurs` si nécessaire) ou utiliser le formulaire.  
+2. Se connecter (créer un compte dans la table `utilisateurs` si nécessaire) ou utiliser le formulaire. 
+
+![Espace profil](images/profil.png)
+
 3. Gérer vos tâches : créer, modifier, supprimer.  
 
 **EN :**  
@@ -129,6 +134,21 @@
 - **CSS styles**: `css/style.css`  
 - **Templates**: modify views in `template/fragment` or `template/pages`  
 - **Helpers**: add utility methods in `model`  
+
+---
+
+## 👤 Auteur | Author
+
+**Sebastien C.**  
+🎓 Promo 2025  
+🔗 GitHub : [@schatel-dev](https://github.com/schatel-dev)
+
+---
+
+## 🌟 Support
+
+🇫🇷 Si ce projet vous a été utile, pensez à lui attribuer une **étoile ⭐**.  
+🇬🇧 If this project helped you, feel free to give it a **⭐**.
 
 ---
 
