@@ -2,6 +2,7 @@
 
 ## Description
 **FR :** Une application MVC en PHP orienté objet (POO) permettant à chaque utilisateur de gérer sa liste de tâches. L’accès est protégé : il faut être connecté, et chaque utilisateur ne voit que ses propres tâches.  
+  
 **EN :** An object-oriented PHP MVC application that allows each user to manage their task list. Access is protected: users must be logged in, and each user only sees their own tasks.
 
 ---
