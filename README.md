@@ -48,7 +48,7 @@
 **FR :**  
 1. Cloner le dépôt  
    ```bash
-   git clone https://github.com/schatel-dev/Gestion-de-taches-PHP-MVC.git
+   git clone https://github.com/DevTech-Solution/Gestion-de-taches-PHP-MVC.git
    ```
 2. Créer la base de données  
    ```sql
@@ -83,7 +83,7 @@
 **EN :**  
 1. Clone the repository  
    ```bash
-   git clone https://github.com/schatel-dev/Gestion-de-taches-PHP-MVC.git
+   git clone https://github.com/DevTech-Solution/Gestion-de-taches-PHP-MVC.git
    ```
 2. Create the database  
    ```sql
@@ -148,7 +148,7 @@
 
 **Sebastien C.**  
 🎓 Promo 2025  
-🔗 GitHub : [@schatel-dev](https://github.com/schatel-dev)
+🔗 GitHub : [@DevTech-Solution](https://github.com/DevTech-Solution)
 
 ---
 
