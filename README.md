@@ -6,6 +6,12 @@
 **EN :** An object-oriented PHP MVC application that allows each user to manage their task list. Access is protected: users must be logged in, and each user only sees their own tasks.
 
 ---
+## Demo video - Creation/Connexion
+<p align="center">
+    <img width="100%" src="./medias/trailer.gif" />
+</p>
+
+
 ## Page Connexion
 ![Page de connexion](images/connexion.png)
 
