@@ -147,7 +147,6 @@
 ## 👤 Auteur | Author
 
 **Sebastien C.**  
-🎓 Promo 2025  
 🔗 GitHub : [@DevTech-Solution](https://github.com/DevTech-Solution)
 
 ---
